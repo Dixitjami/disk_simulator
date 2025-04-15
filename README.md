@@ -1,1 +1,1 @@
-# disk_simulator
+# disk_scheduling_simulator
